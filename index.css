@@ -1,0 +1,312 @@
+
+
+/*EN ESTE APARTADO NOS SIVER PARA CAMBIAR YA SEA EL COLOR, TAMAÑO O POSICION DE NUESTRO TITULO*/
+header{
+    padding: 40px;
+    background: linear-gradient(rgb(104, 204, 84),rgb(238, 248, 248));
+    font-size: 40px;
+    text-align: center;
+    height: 180px;
+   
+}
+
+
+/*AQUI ESTA LA EDICION DE NUESTRO TITULO QUE HACEN QUE RESALTEN Y SE VEA BONITO*/
+#domicilio{
+
+    
+    background-color:rgb(117, 231, 126);
+    /*background: linear-gradient(rgb(2, 70, 172),rgb(98, 0, 255));*/
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin:50px;
+     color: rgb(0, 0, 0);
+   
+}
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+#articulos{
+    border: 1px solid black;
+background-color:  rgb(121, 219, 170);
+    width: 600px;
+    height: 300px;
+    margin:80px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    margin-left: 50px;
+}
+
+/* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+#articulos article{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+#imagen1{    
+    background-color: rgb(248, 0, 0);
+     width: 460px;
+     height: 200px;
+     margin-top: -380px;
+     margin-left: 750px;
+ }
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+#imagen2{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 300px;
+     margin-left: 50px;
+     margin-top: 90px;
+ }
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+ #articulos2{
+    border: 1px solid black;
+background-color: rgb(121, 219, 170);
+    width: 600px;
+    height: 380px;
+    margin:50px;
+    margin-top: 80px;
+    color: rgb(0, 0, 0);
+    float: right;
+    text-align: center;
+}
+
+/* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+#articulos2 article{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+/*AQUI ESTA LA EDICION DE NUESTRO TITULO QUE HACEN QUE RESALTEN Y SE VEA BONITO*/
+
+#formacion{
+
+    
+    background-color:rgb(117, 231, 126);
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin:50px;
+     color: rgb(2, 2, 2);
+}
+
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+#articulos3{
+    border: 1px solid black;
+background-color: rgb(70, 224, 165);
+    width: 600px;
+    height: 400px;
+    margin:80px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    margin-left: 70px;
+    font-size: 15px
+}
+
+/* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+
+#articulos3 article{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+#imagen3{    
+    background-color: rgb(248, 0, 0);
+     width: 400px;
+     height: 400px;
+     margin-top: -480px;
+     margin-left: 720px;
+ }
+
+ /*AQUI ESTA LA EDICION DE NUESTRO TITULO  QUE HACEN QUE RESALTEN Y SE VEA BONITO*/
+#PASATIEMPOS{
+
+    
+    background-color:rgb(117, 231, 126);
+    /*background: linear-gradient(rgb(2, 70, 172),rgb(98, 0, 255));*/
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin:50px;
+     color: rgb(0, 0, 0);
+   
+}
+
+
+/*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+#pasatiempo1{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 380px;
+    float: left;
+     margin-top: 20px;
+     margin-left: 5px;
+ }
+
+/*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+ #pasatiempo2{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 380px;
+    float: center;
+     margin-top: -380px;
+     margin-left: 460px;
+ }
+
+ /*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+ #pasatiempo3{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 380px;
+    float: right;
+    
+     margin-right: 170px;
+     margin-top: -380px;
+ }
+
+
+
+#Primer{
+    border: 1px solid black;
+background-color: rgb(25, 150, 62);
+    width: 425px;
+    height: 80px;
+    margin:45px;
+    margin-top: 5px;
+    color: white;
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+#Segundo{
+    border: 1px solid black;
+    background-color: rgb(221, 200, 9);
+    width: 425px;
+    height: 80px;
+    margin:45px;
+    margin-top: -45px;
+    color: white;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 400px;
+}
+
+
+#Tercer{
+    border: 1px solid black;
+background-color: rgb(128, 22, 138);
+    width: 400px;
+    height: 80px;
+    margin:45px;
+    margin-top: -124px;
+    color: white;
+    float: right;
+    text-align: center;
+  margin-right: -899px;
+}
+
+
+ /*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+ #pasatiempo4{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 380px;
+    float: left;
+     margin-top: 20px;
+     margin-left: 5px;
+ }
+
+ /*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+ #pasatiempo5{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 380px;
+    float: center;
+     margin-top: 66px;
+     margin-left: 470px;
+ }
+
+  /*EN ESTA PARTE ES DEL DIV DONDE SE ENCUENTRA LA IMAGEN QUE ACOMODAREMOS*/
+#pasatiempo6{    
+    background-color: rgb(248, 0, 0);
+     width: 250px;
+     height: 50px;
+    float: right;
+     margin-right: -750px;
+     margin-top: -380px;
+ }
+
+ 
+
+#cuarto{
+    border: 1px solid black;
+    background-color: rgb(226, 78, 135);
+        width: 425px;
+        height: 50px;
+        margin:45px;
+        margin-top: 5px;
+        color: white;
+        float: left;
+        text-align: center;
+        margin-left: 5px;
+}
+
+
+
+#quinto{
+    border: 1px solid black;
+    background-color: rgb(221, 34, 9);
+    width: 425px;
+    height: 50px;
+    margin:45px;
+    margin-top: -40px;
+    color: white;
+    text-align: center;
+    margin-left: 460px;
+    margin-right: 300px;
+    float: center;
+}
+
+
+#sexto{
+    border: 1px solid black;
+background-color: rgb(74, 194, 202);
+    width: 400px;
+    height: 50px;
+    margin:45px;
+    margin-top: -99px;
+    color: white;
+    float: right;
+    text-align: center;
+    margin-right: -890px;
+}
+
+/*PARA TERMINAR AQUI SE ENCUENTRA EL PIE DE PAGINA QUE ES LO QUE APARECE AL FINAL DE LA PAGINA*/
+#pie{
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgb(3, 168, 66);
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    margin-left: 460px;
+    
+}
